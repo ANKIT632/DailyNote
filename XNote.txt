@@ -1,0 +1,9 @@
+- npx create-react-app dailyNote
+- create backend folder
+- npm init command and make package.json
+   - npm i express
+   - npm i mongoose
+
+
+
+-----------------------------------------Read More------------------------------------------------
